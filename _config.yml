@@ -21,6 +21,12 @@ twitter_username:   huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
 
+## add conf by jonathan 20190110 17:18
+repository: github_username/github_username.github.io
+github_url: https://github.com/github_username
+url: https://github_username.github.io
+
+
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
